@@ -1,0 +1,15 @@
+{
+  "name": "replit_exporter",
+  "version": "1.0.0",
+  "description": "A brutalist tool for exporting student submissions on repl.it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Bourgerie",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "toml": "^3.0.0"
+  }
+}
