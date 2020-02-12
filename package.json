@@ -4,7 +4,8 @@
   "description": "A brutalist tool for exporting student submissions on repl.it",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export": "node index.js"
   },
   "author": "Austin Bourgerie",
   "license": "MIT",

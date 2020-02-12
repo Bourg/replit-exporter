@@ -14,7 +14,7 @@ async function selectProject(driver) {
     console.log("Opening project...");
     await driver.wait(until.elementLocated(By.xpath("//*[contains(text(), 'BLA AP CSA')]"))).click();
     await driver.wait(until.elementLocated(By.xpath("//*[contains(text(), 'Published')]"))).click();
-    await driver.wait(until.elementLocated(By.xpath("//*[contains(text(), 'FracCalc')]"))).click();
+    await driver.wait(until.elementLocated(By.xpath("//*[contains(text(), 'Tic Tac Toe')]"))).click();
     console.log("Project open successful!");
 }
 
