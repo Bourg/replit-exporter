@@ -10,7 +10,7 @@
   "author": "Austin Bourgerie",
   "license": "MIT",
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.5",
+    "selenium-webdriver": "^4.8.2",
     "toml": "^3.0.0"
   }
 }
